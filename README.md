@@ -1,4 +1,4 @@
-# JiraStudy
+# Jira Study
 
 In this study, epic, user scenario and error reporting operations were carried out for the customer and driver in an Uber application with Jira.
 
