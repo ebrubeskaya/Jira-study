@@ -1,5 +1,17 @@
-# Jira Study
+# Mobile Test Case with Zephyr Scale
 
-In this study, epic, user scenario and error reporting operations were carried out for the customer and driver in an Uber application with Jira.
+📌In this study, test cases were created with Zephyr Scale, a Jira plug-in for the Budget Management application, which is a mobile application.
 
-You can access the [study](https://ebrujiraa.atlassian.net/jira/software/c/projects/JIR/boards/2?atlOrigin=eyJpIjoiYzMxN2UxMDgyMjc4NGM3NzliZTU3MjcyMmEzOGRiNTMiLCJwIjoiaiJ9) here.
+Application:
+
+* Sign Up(E-mail, Password, Confirm Password)
+* Login(E-mail, Password)
+* Settings(About, Currency, Rate us)
+* Card - Cash(Statistics)
+* Savings(Subject, Current Amount, Total Amount)
+
+consists of pages.
+
+Test cases were written for the components on each page and the precondition, priority and status of each test case were determined.
+
+You can access the study from this [link](https://ebrujira.atlassian.net/projects/ZSP?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10002).
