@@ -14,4 +14,6 @@ consists of pages.
 
 Test cases were written for the components on each page and the precondition, priority and status of each test case were determined.
 
+Additionally, regression and smoke tests were applied to the scenarios.
+
 You can access the study from this [link](https://ebrujira.atlassian.net/projects/ZSP?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases?projectId=10002).
